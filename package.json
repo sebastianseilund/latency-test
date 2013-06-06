@@ -1,5 +1,6 @@
 {
   "name": "whatever",
+  "version": "99.9.9-whatever",
   "dependencies": {
     "async": "~0.2.9"
   }
